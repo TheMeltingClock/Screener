@@ -1,0 +1,13 @@
+{
+  "name": "Screener",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "TheMeltingClock",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.5",
+    "winston": "^3.7.2"
+  }
+}
